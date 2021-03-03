@@ -1,0 +1,12 @@
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\bin\Debug\Navegador.exe
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\bin\Debug\Navegador.pdb
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\bin\Debug\Navegador.xml
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\obj\x86\Debug\Navegador.Form1.resources
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\obj\x86\Debug\Navegador.Resources.resources
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\obj\x86\Debug\Navegador.vbproj.GenerateResource.Cache
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\obj\x86\Debug\Navegador.exe
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\obj\x86\Debug\Navegador.xml
+C:\Users\wqe_5\AppData\Local\Temporary Projects\Navegador\obj\x86\Debug\Navegador.pdb
+C:\Users\wqe_5\documents\visual studio 2010\Projects\Navegador\Navegador\obj\x86\Debug\Navegador.exe
+C:\Users\wqe_5\documents\visual studio 2010\Projects\Navegador\Navegador\obj\x86\Debug\Navegador.xml
+C:\Users\wqe_5\documents\visual studio 2010\Projects\Navegador\Navegador\obj\x86\Debug\Navegador.pdb
